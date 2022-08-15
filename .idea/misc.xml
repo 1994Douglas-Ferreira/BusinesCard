@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/douglas.ferreira/AndroidStudioProjects/BussinesCard/app/src/main/res/layout/activity_main.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/douglas.ferreira/AndroidStudioProjects/BussinesCard/app/src/main/res/drawable/ic_add.xml" value="0.1" />
+        <entry key="..\:/Users/douglas.ferreira/AndroidStudioProjects/BussinesCard/app/src/main/res/drawable/ic_close.xml" value="0.1" />
+        <entry key="..\:/Users/douglas.ferreira/AndroidStudioProjects/BussinesCard/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1465" />
+        <entry key="..\:/Users/douglas.ferreira/AndroidStudioProjects/BussinesCard/app/src/main/res/layout/activity_add_business_card.xml" value="0.33" />
+        <entry key="..\:/Users/douglas.ferreira/AndroidStudioProjects/BussinesCard/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/douglas.ferreira/AndroidStudioProjects/BussinesCard/app/src/main/res/layout/item_business_card.xml" value="0.2" />
       </map>
     </option>
   </component>
